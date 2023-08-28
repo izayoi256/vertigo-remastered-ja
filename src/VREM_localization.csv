@@ -622,7 +622,7 @@ menu_continue,Continue Game,Continuer la partie,Continuar Partida,Weiterspielen,
 menu_createsave,Create New Save Slot,Nouvelle sauvegarde,Crear Nuevos Datos de Guardado,Create New Save Slot,Создать новую Сохранить Slot,Maak Slot Nieuw Opslaan,新規セーブスロット,新建保存槽,Criar Nova Salvar slot
 menu_deletesave,Delete Save Data,Supprimer la sauvegarde,Eliminar Datos Guardados,Löschen Daten speichern,Удалить Сохранить данные,Verwijder Gegevens opslaan,セーブデータを削除,删除保存数据,Excluir Save Data
 menu_dev,Developer Menu,Menu de Developeur,Menú de Desarrollador,Entwicklermenü,Меню разработчика,Developer Menu,開発者メニュー,开发者菜单,developer menu
-menu_editUpgrades,Edit Active Upgrades,Changer les améliorations actives,Editar Mejoras Activas,Bearbeiten Aktive Upgrades,Редактировать Активные Обновления,Bewerken Active Upgrades,アップグレード 有効/無効,编辑可用升级,Editar Upgrades ativos
+menu_editUpgrades,Edit Active Upgrades,Changer les améliorations actives,Editar Mejoras Activas,Bearbeiten Aktive Upgrades,Редактировать Активные Обновления,Bewerken Active Upgrades,アップグレード切り替え,编辑可用升级,Editar Upgrades ativos
 menu_loadCheck,Load Checkpoint,Charger un Checkpoint,Cargar Punto de Guardado,laden Checkpoint,Загрузка контрольно-пропускной пункт,Laad Checkpoint,チェックポイントから,加载进度点,carregar Checkpoint
 menu_mainMenu,Main Menu,Menu principal,Menú Principal,Hauptmenü,Главное меню,Hoofdmenu,メインメニュー,主菜单,Menu principal
 menu_nocheckpts,No saved checkpoints!,Pas de Checkpoint Enregistré!,¡Sin puntos de guardado!,Keine gespeicherten Checkpoints!,Нет сохранены контрольно-пропускные пункты!,Geen opgeslagen checkpoints!,チェックポイントがありません！,无保存进度点！,Não salvo checkpoints!
