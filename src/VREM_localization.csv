@@ -779,23 +779,23 @@ spec_third,Third Person View,Vue à la troisième personne,Vista Tercera Persona
 spec_tilt,Reduce tilting,réduire l'inclinaison,Reducir la inclinación,reduzieren Sie Kippen,Уменьшение наклона,verminderen kantelen,傾き低減,减少倾斜,reduzir a inclinação
 spec_timer,Show Game Timer,Afficher le Chronomètre,Mostrar Temporizador,Show Game Timer,Показать Таймер игры,Show Game Timer,タイマー表示,显示游戏计时器,Mostrar relógio do jogo
 stage,Stage,Niveau,Nivel,Bühne,стадия,Stadium,ステージ選択,关卡,Palco
-stage_admin,Administration,Administration,Administración,Verwaltung,администрация,Administratie,アドミニストレーション,管理,Administração
-stage_breakdown,Breakdown,Breakdown,Ruptura,Nervenzusammenbruch,Сломать,Afbreken,ブレークダウン,故障,Demolir
-stage_contain,Containment,Confinement,Contención,Eindämmung,политика сдерживания,containment,収容,控制,Contenção
-stage_decomp,Decompression,Décompression,Descompresión,Dekompression,декомпрессия,Decompressie,解凍,解压,descompressão
-stage_epilogue,Epilogue,Épilogue,Epílogo,Epilog,эпилог,Nawoord,エピローグ,结束语,Epílogo
-stage_exo,Exobiology,Exobiologie,Exobiología,Exobiology,Экзобиология,exobiologie,エグゾバイオロジー,外空生物学,exobiologia
-stage_frank,Frank,Frank,Frank,Frank,Фрэнк,openhartig,フランク,弗兰克,franco
-stage_hangar,Hangar,Hangar,Hangar,Halle,Ангар,Hangar,ハンガー,飞机库,Hangar
-stage_infest,Infestation,Infestation,Infestación,Befall,Заражение,plaag,蔓延,侵扰,Infestação
-stage_maze,Toxic Maze,Labyrinthe Toxique,Laberinto Tóxico,Toxic Maze,Токсичные Maze,Toxic Maze,有毒迷宮,毒迷宫,Toxic Maze
-stage_origins,Origins,Origines,Orígenes,Ursprünge,происхождения,Origins,オリジン,起源,origens
+stage_admin,Administration,Administration,Administración,Verwaltung,администрация,Administratie,Administration,管理,Administração
+stage_breakdown,Breakdown,Breakdown,Ruptura,Nervenzusammenbruch,Сломать,Afbreken,Breakdown,故障,Demolir
+stage_contain,Containment,Confinement,Contención,Eindämmung,политика сдерживания,containment,Containment,控制,Contenção
+stage_decomp,Decompression,Décompression,Descompresión,Dekompression,декомпрессия,Decompressie,Decompression,解压,descompressão
+stage_epilogue,Epilogue,Épilogue,Epílogo,Epilog,эпилог,Nawoord,Epilogue,结束语,Epílogo
+stage_exo,Exobiology,Exobiologie,Exobiología,Exobiology,Экзобиология,exobiologie,Exobiology,外空生物学,exobiologia
+stage_frank,Frank,Frank,Frank,Frank,Фрэнк,openhartig,Frank,弗兰克,franco
+stage_hangar,Hangar,Hangar,Hangar,Halle,Ангар,Hangar,Hangar,飞机库,Hangar
+stage_infest,Infestation,Infestation,Infestación,Befall,Заражение,plaag,Infestation,侵扰,Infestação
+stage_maze,Toxic Maze,Labyrinthe Toxique,Laberinto Tóxico,Toxic Maze,Токсичные Maze,Toxic Maze,Toxic Maze,毒迷宫,Toxic Maze
+stage_origins,Origins,Origines,Orígenes,Ursprünge,происхождения,Origins,Origins,起源,origens
 stage_pits,P.I.T.S.,P.I.T.S.,P.I.T.S.,P.I.T.S.,P.I.T.S.,P.I.T.S.,P.I.T.S.,P.I.T.S.,P.I.T.S.
-stage_prologue,Prologue,Prologue,Prólogo,Prolog,пролог,Proloog,プロローグ,序言,Prólogo
-stage_rec,Recreation Dome,Dôme de Loisirs,Cúpula de Recreación,Freizeit Dome,отдых Купол,recreatie Dome,レクドーム,娱乐穹顶,recreação Dome
-stage_residential,Residential,Résidentiel,Residencial,Wohn,Жилой,woon-,居住区画,居住,residencial
-stage_richard,Richard's Demise,Decès de Richard,La Muerte de Richard,Richards Demise,Кончина Ричарда,Richard's Demise,リチャードの最期,理查德的灭亡,Demise de Richard
-stage_surface,Surface,Surface,Superficie,Oberfläche,поверхность,Oppervlakte,地上,表面,Superfície
+stage_prologue,Prologue,Prologue,Prólogo,Prolog,пролог,Proloog,Prologue,序言,Prólogo
+stage_rec,Recreation Dome,Dôme de Loisirs,Cúpula de Recreación,Freizeit Dome,отдых Купол,recreatie Dome,Recreation Dome,娱乐穹顶,recreação Dome
+stage_residential,Residential,Résidentiel,Residencial,Wohn,Жилой,woon-,Residential,居住,residencial
+stage_richard,Richard's Demise,Decès de Richard,La Muerte de Richard,Richards Demise,Кончина Ричарда,Richard's Demise,Richard's Demise,理查德的灭亡,Demise de Richard
+stage_surface,Surface,Surface,Superficie,Oberfläche,поверхность,Oppervlakte,Surface,表面,Superfície
 surprised_backup_caption_00,Code 8. Backup requested.,Code 8. j'ai besoin de renfort.,Código 8. Copia de seguridad solicitada.,Code 8. Sicherung angefordert.,Код 8. Резервное копирование по запросу.,Code 8. Backup aangevraagd.,コード8。バックアップを頼む。,代号8。请求支援。,Código 8. backup solicitado.
 surprised_double_caption_00,Code 8! Code 8.,Code 8! Code 8.,¡Código 8! Código 8.,Code 8! Code 8.,Код 8! Код 8.,Code 8! Code 8.,コード8！ コード8。,代号8！代号8。,Código 8! Código 8.
 surprised_shit_caption_00,"Shit, code 8.","Merde, Code 8.","Mierda, código 8.","Scheiße, Code 8.","Дерьмо, код 8.","Shit, code 8.",クソ、コード8だ。,糟糕，代号8。,"Merda, código de 8."
