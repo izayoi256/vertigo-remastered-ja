@@ -18,7 +18,8 @@
 
 # クレジット
 
-- Vertigo Remastered © Zulubo Productions 2020
-- 翻訳及びパッチ化 © Qwert(Shotaro Hama) 2023
+- Vertigo Remastered © 2020 Zulubo Productions 
+- 翻訳 © 2023 Qwert(Shotaro Hama) 
+- フォント Noto Sans Japanese © 2014-2021 Adobe
 - ツール:
   - [udm差分ファイル作成ツール](https://www.lameije.co.jp/products/udm) by 有限会社ラメイジュ
