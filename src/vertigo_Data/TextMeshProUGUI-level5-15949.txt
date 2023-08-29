@@ -22,7 +22,7 @@
    0 PersistentCall m_Calls
     1 Array Array (0 items)
      0 int size = 0
- 1 string m_text = "Made it to the next floor. Met some security bots, asked them for help getting to the surface. They laughed, and gave me a gun.\r\n\nGoing to try to get some rest. Exobiology isn’t the safest place to let my guard down, but I haven’t slept in 48 hours.\r\n"
+ 1 string m_text = "次の階に来られた。出会ったセキュリティボットたちに地上へ連れて行ってくれるよう頼んだが、一笑に付して銃をよこしてきた。\r\n\n少し休もう。エグゾバイオロジーで休息するのは危険だが、もう48時間も睡眠をとっていないんだ。\r\n"
  1 UInt8 m_isRightToLeft = 0
  0 PPtr<$TMP_FontAsset> m_fontAsset
   0 int m_FileID = 2
