@@ -741,7 +741,7 @@ set_normal,Normal,Normal,Normal,Normal,Нормальный,normaal,Normal,正�
 set_normal_desc,Default difficulty. A solid challenge and the recommended experience.,Difficulté par défaut. Un bon défi et l'experience recommandé,Dificultad predeterminada. Un desafío justo y la experiencia recomendada.,Standard Schwierigkeiten. Eine solide Herausforderung und die empfohlene Erfahrung.,По умолчанию трудности. Сплошная вызов и рекомендуемый опыт.,Default moeilijkheid. Een stevige uitdaging en de aanbevolen ervaring.,通常の難易度。ほどよい歯ごたえのおすすめ設定。,默认难度。不错的挑战和推荐的体验。,dificuldade padrão. Um desafio sólida ea experiência recomendado.
 set_noTurn,None,Aucun,Ninguno,Keiner,Никто,Geen,なし,无,Nenhum
 set_increment,Increment,Incrément:,Incremento,Zuwachs,инкремент,aanwas,増加,增量,Incremento
-set_orient,Orientation:,Orientation:,Orientación:,Orientierung:,Ориентация:,oriëntatie:,オリエンテーション:,方向:,Orientação:
+set_orient,Orientation:,Orientation:,Orientación:,Orientierung:,Ориентация:,oriëntatie:,進行方向:,方向:,Orientação:
 set_speed,Speed:,Vitesse:,Velocidad:,Geschwindigkeit:,Скорость:,Snelheid:,スピード:,速度:,Rapidez:
 set_reverb,Dynamic Reverb:,Reverberation dynamique:,Reverberación Dinámica:,Dynamische Reverb:,Динамический Reverb:,Dynamic Reverb:,ダイナミックリバーブ:,动态混响:,Dinâmica Reverb:
 set_revert,Revert,Revenir,Revertir,Zurückkehren,Revert,Terugdraaien,元に戻す,反转,Reverter
