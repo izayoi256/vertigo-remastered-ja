@@ -626,7 +626,7 @@ menu_editUpgrades,Edit Active Upgrades,Changer les améliorations actives,Editar
 menu_loadCheck,Load Checkpoint,Charger un Checkpoint,Cargar Punto de Guardado,laden Checkpoint,Загрузка контрольно-пропускной пункт,Laad Checkpoint,チェックポイントから,加载进度点,carregar Checkpoint
 menu_mainMenu,Main Menu,Menu principal,Menú Principal,Hauptmenü,Главное меню,Hoofdmenu,メインメニュー,主菜单,Menu principal
 menu_nocheckpts,No saved checkpoints!,Pas de Checkpoint Enregistré!,¡Sin puntos de guardado!,Keine gespeicherten Checkpoints!,Нет сохранены контрольно-пропускные пункты!,Geen opgeslagen checkpoints!,チェックポイントがありません！,无保存进度点！,Não salvo checkpoints!
-menu_nxtvial,Next vial,Prochain flacon,Siguiente vial,Weite Fläschchen,Затем флакон,Volgende flacon,100%,下一个,próxima frasco
+menu_nxtvial,Next vial,Prochain flacon,Siguiente vial,Weite Fläschchen,Затем флакон,Volgende flacon,次の瓶,下一个,próxima frasco
 menu_openSave,"Open Save Directory 
 (out of VR)",Ouvrir l'emplacement de la sauvegarde (en dehors de la VR),"Abrir Directorio de Guardado
 (fuera de Realidad Virtual)","Öffnen Speichern Verzeichnis
