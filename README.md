@@ -10,7 +10,8 @@
 
 # 導入方法
 
-
+1. [リリース一覧](https://github.com/izayoi256/vertigo-remastered-ja/releases)からパッチファイル(`vertigo_remastered_ja_[バージョン].exe`)をダウンロードする。
+2. ダウンロードしたファイルを実行し、画面の指示に従って差分を適用する。
 
 # 免責事項
 
