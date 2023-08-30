@@ -1,6 +1,6 @@
 # Vertigo Remastered 日本語化パッチ
 
-これはSteam版[Vertigo Remastered](https://store.steampowered.com/app/1318090/Vertigo_Remastered/)を日本語化するパッチです。
+これは[Vertigo Remastered](https://store.steampowered.com/app/1318090/Vertigo_Remastered/)を日本語化するパッチです。
 
 制作元であるZulubo Productionsより翻訳の制作、配布の許諾を受けて公開しているものです。
 
