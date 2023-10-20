@@ -4,6 +4,8 @@
 
 制作元であるZulubo Productionsより翻訳の制作、配布の許諾を受けて公開しているものです。
 
+[続編のVertigo 2の日本語化パッチはこちら。](https://github.com/izayoi256/vertigo-2-ja)
+
 # 動作確認済み環境
 
 - Windows 10
