@@ -364,23 +364,23 @@ spec_third,三人称視点
 spec_tilt,傾き低減
 spec_timer,タイマー表示
 stage,ステージ選択
-stage_admin,管理センター
-stage_breakdown,故障
-stage_contain,収容
-stage_decomp,解凍
-stage_epilogue,エピローグ
-stage_exo,エグゾバイオロジー
-stage_frank,フランク
-stage_hangar,ハンガー
-stage_infest,蔓延
-stage_maze,毒ガス迷路
-stage_origins,発端
+stage_admin,Administration
+stage_breakdown,Breakdown
+stage_contain,Containment
+stage_decomp,Decompression
+stage_epilogue,Epilogue
+stage_exo,Exobiology
+stage_frank,Frank
+stage_hangar,Hangar
+stage_infest,Infestation
+stage_maze,Toxic Maze
+stage_origins,Origins
 stage_pits,P.I.T.S.
-stage_prologue,プロローグ
-stage_rec,レクリエーションドーム
-stage_residential,居住区画
-stage_richard,リチャードの最期
-stage_surface,地上
+stage_prologue,Prologue
+stage_rec,Recreation Dome
+stage_residential,Residential
+stage_richard,Richard's Demise
+stage_surface,Surface
 surprised_backup_caption_00,コード8。バックアップを頼む。
 surprised_double_caption_00,コード8！ コード8。
 surprised_shit_caption_00,クソ、コード8だ。
