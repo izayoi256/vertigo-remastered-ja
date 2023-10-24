@@ -32,7 +32,7 @@
 
 ## 日本語化パッチの導入
 
-1. [日本語化パッチ](https://github.com/izayoi256/vertigo-2-ja/archive/refs/heads/master.zip)をダウンロードして解凍する。
+1. [日本語化パッチ](https://github.com/izayoi256/vertigo-remastered-ja/archive/refs/heads/master.zip)をダウンロードして解凍する。
 2. `Steamクライアント > ライブラリ > Vertigo Remastered > 歯車マーク > 管理 > ローカルファイルを閲覧` をクリックして、Vertigo Remasteredのインストール先ディレクトリを開く。
 3. 1で解凍されたファイルの内`Vertigo Remastered`ディレクトリの中身を、2で開いたディレクトリに移動する。ファイルはすべて上書きしてください。
     - `vertigo.exe`と`localize.bat`というファイルが同じディレクトリの中に入っていればOKです。
